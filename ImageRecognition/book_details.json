@@ -1,0 +1,746 @@
+{
+    "easy8.jpg": {
+        "title": "Miranda",
+        "author": "Simon Thompson",
+        "description": "This book introduces Miranda at a level appropriate for professionals with little or no prior experience in programming. The emphasis is on the process of crafting programs, solving problems, and avoiding common errors. Using a large number of running examples and case studies, the book encourages the design of well structured, reusable software together with proofs of correctness. A tear-out card enables readers to acquire a Miranda compiler from Research Software Ltd. at a substantial discount off the published list price.",
+        "genre": "Functional programming (Computer science)",
+        "page_ct": 482,
+        "img": "http://books.google.com/books/content?id=-35QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": "UOM:39015034267792",
+        "lang": "en",
+        "pub_date": "1995",
+        "pub": "Addison Wesley Longman",
+        "link": "http://books.google.ca/books?id=-35QAAAAMAAJ&q=Miranda+The+Craft+of+Functional+Programming+Thompson&dq=Miranda+The+Craft+of+Functional+Programming+Thompson&hl=&cd=1&source=gbs_api",
+        "info_link": "http://books.google.ca/books?id=-35QAAAAMAAJ&dq=Miranda+The+Craft+of+Functional+Programming+Thompson&hl=&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "Miranda",
+            "subtitle": "The Craft of Functional Programming",
+            "authors": [
+                "Simon Thompson"
+            ],
+            "publisher": "Addison Wesley Longman",
+            "publishedDate": "1995",
+            "description": "This book introduces Miranda at a level appropriate for professionals with little or no prior experience in programming. The emphasis is on the process of crafting programs, solving problems, and avoiding common errors. Using a large number of running examples and case studies, the book encourages the design of well structured, reusable software together with proofs of correctness. A tear-out card enables readers to acquire a Miranda compiler from Research Software Ltd. at a substantial discount off the published list price.",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "UOM:39015034267792"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 482,
+            "printType": "BOOK",
+            "categories": [
+                "Functional programming (Computer science)"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.5.2.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=-35QAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=-35QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=-35QAAAAMAAJ&q=Miranda+The+Craft+of+Functional+Programming+Thompson&dq=Miranda+The+Craft+of+Functional+Programming+Thompson&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=-35QAAAAMAAJ&dq=Miranda+The+Craft+of+Functional+Programming+Thompson&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Miranda.html?hl=&id=-35QAAAAMAAJ"
+        }
+    },
+    "easy9.jpg": {
+        "title": "Programming Perl 3/E",
+        "author": "Wall, Wall Larry, Christiansen Tom, Orwant Jon",
+        "description": "Programming Perl is not just a book about Perl. It is also a unique introduction to the language and its culture, as one might expect only from its authors. Larry Wall is the inventor of Perl, and provides a unique perspective on the evolution of Perl and its future direction. Tom Christiansen was one of the first champions of the language, and lives and breathes the complexities of Perl internals as few other mortals do. Jon Orwant is the editor of The Perl Journal, which has brought together the Perl community as a common forum for new developments in Perl.Any Perl book can show the syntax of Perl's functions, but only this one is a comprehensive guide to all the nooks and crannies of the language. Any Perl book can explain typeglobs, pseudohashes, and closures, but only this one shows how they really work. Any Perl book can say that my is faster than local, but only this one explains why. Any Perl book can have a title, but only this book is affectionately known by all Perl programmers as The Camel.",
+        "genre": "",
+        "page_ct": 1116,
+        "img": "",
+        "isbn": "8173662657",
+        "lang": "en",
+        "pub_date": "2000-01-01",
+        "pub": "",
+        "link": "http://books.google.ca/books?id=XAU_YgEACAAJ&dq=THIRD+EDITION+Programming+Perl+Wall,+Christiansen+%26+Orwant&hl=&cd=1&source=gbs_api",
+        "info_link": "http://books.google.ca/books?id=XAU_YgEACAAJ&dq=THIRD+EDITION+Programming+Perl+Wall,+Christiansen+%26+Orwant&hl=&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "Programming Perl 3/E",
+            "authors": [
+                "Wall",
+                "Wall Larry",
+                "Christiansen Tom",
+                "Orwant Jon"
+            ],
+            "publishedDate": "2000-01-01",
+            "description": "Programming Perl is not just a book about Perl. It is also a unique introduction to the language and its culture, as one might expect only from its authors. Larry Wall is the inventor of Perl, and provides a unique perspective on the evolution of Perl and its future direction. Tom Christiansen was one of the first champions of the language, and lives and breathes the complexities of Perl internals as few other mortals do. Jon Orwant is the editor of The Perl Journal, which has brought together the Perl community as a common forum for new developments in Perl.Any Perl book can show the syntax of Perl's functions, but only this one is a comprehensive guide to all the nooks and crannies of the language. Any Perl book can explain typeglobs, pseudohashes, and closures, but only this one shows how they really work. Any Perl book can say that my is faster than local, but only this one explains why. Any Perl book can have a title, but only this book is affectionately known by all Perl programmers as The Camel.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "8173662657"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9788173662652"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 1116,
+            "printType": "BOOK",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=XAU_YgEACAAJ&dq=THIRD+EDITION+Programming+Perl+Wall,+Christiansen+%26+Orwant&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=XAU_YgEACAAJ&dq=THIRD+EDITION+Programming+Perl+Wall,+Christiansen+%26+Orwant&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Programming_Perl_3_E.html?hl=&id=XAU_YgEACAAJ"
+        }
+    },
+    "easy11.jpg": {
+        "title": "Systems Programming with Modula-3",
+        "author": "Charles G. Nelson",
+        "description": "Software -- Programming Languages.",
+        "genre": "Modula-3 (Computer program language).",
+        "page_ct": 294,
+        "img": "http://books.google.com/books/content?id=HguzAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": "UCAL:B4340295",
+        "lang": "en",
+        "pub_date": "1991",
+        "pub": "",
+        "link": "http://books.google.ca/books?id=HguzAAAAIAAJ&q=Nelson+Systems+Programming+with+Modula-3&dq=Nelson+Systems+Programming+with+Modula-3&hl=&cd=1&source=gbs_api",
+        "info_link": "http://books.google.ca/books?id=HguzAAAAIAAJ&dq=Nelson+Systems+Programming+with+Modula-3&hl=&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "Systems Programming with Modula-3",
+            "authors": [
+                "Charles G. Nelson"
+            ],
+            "publishedDate": "1991",
+            "description": "Software -- Programming Languages.",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "UCAL:B4340295"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 294,
+            "printType": "BOOK",
+            "categories": [
+                "Modula-3 (Computer program language)."
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.2.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=HguzAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=HguzAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=HguzAAAAIAAJ&q=Nelson+Systems+Programming+with+Modula-3&dq=Nelson+Systems+Programming+with+Modula-3&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=HguzAAAAIAAJ&dq=Nelson+Systems+Programming+with+Modula-3&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Systems_Programming_with_Modula_3.html?hl=&id=HguzAAAAIAAJ"
+        }
+    },
+    "easy10.jpg": {
+        "title": "Learning Python",
+        "author": "Mark Lutz, David Ascher",
+        "description": "Portable, powerful, and a breeze to use, Python is the popular open source object-oriented programming language used for both standalone programs and scripting applications. Python is considered easy to learn, but there's no quicker way to mastery of the language than learning from an expert teacher. This edition of Learning Python puts you in the hands of two expert teachers, Mark Lutz and David Ascher, whose friendly, well-structured prose has guided many a programmer to proficiency with the language. Learning Python, Second Edition, offers programmers a comprehensive learning tool for Python and object-oriented programming. Thoroughly updated for the numerous language and class presentation changes that have taken place since the release of the first edition in 1999, this guide introduces the basic elements of the latest release of Python 2.3 and covers new features, such as list comprehensions, nested scopes, and iterators/generators. Beyond language features, this edition of Learning Python also includes new context for less-experienced programmers, including fresh overviews of object-oriented programming and dynamic typing, new discussions of program launch and configuration options, new coverage of documentation sources, and more. There are also new use cases throughout to make the application of language features more concrete. The first part of Learning Python gives programmers all the information they'll need to understand and construct programs in the Python language, including types, operators, statements, classes, functions, modules and exceptions. The authors then present more advanced material, showing how Python performs common tasks by offering real applications and the libraries available for those applications. Each chapter ends with a series of exercises that will test your Python skills and measure your understanding. Learning Python, Second Edition is a self-paced book that allows readers to focus on the core Python language in depth. As you work through the book, you'll gain a deep and complete understanding of the Python language that will help you to understand the larger application-level examples that you'll encounter on your own. If you're interested in learning Python--and want to do so quickly and efficiently--then Learning Python, Second Edition is your best choice.",
+        "genre": "Computers",
+        "page_ct": 624,
+        "img": "http://books.google.com/books/content?id=ftA0yk1Z92wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "isbn": "9780596551933",
+        "lang": "en",
+        "pub_date": "2003-12-23",
+        "pub": "\"O'Reilly Media, Inc.\"",
+        "link": "http://books.google.ca/books?id=ftA0yk1Z92wC&printsec=frontcover&dq=Learning+Python+Lutz+%26+Ascher&hl=&cd=1&source=gbs_api",
+        "info_link": "https://play.google.com/store/books/details?id=ftA0yk1Z92wC&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "Learning Python",
+            "authors": [
+                "Mark Lutz",
+                "David Ascher"
+            ],
+            "publisher": "\"O'Reilly Media, Inc.\"",
+            "publishedDate": "2003-12-23",
+            "description": "Portable, powerful, and a breeze to use, Python is the popular open source object-oriented programming language used for both standalone programs and scripting applications. Python is considered easy to learn, but there's no quicker way to mastery of the language than learning from an expert teacher. This edition of Learning Python puts you in the hands of two expert teachers, Mark Lutz and David Ascher, whose friendly, well-structured prose has guided many a programmer to proficiency with the language. Learning Python, Second Edition, offers programmers a comprehensive learning tool for Python and object-oriented programming. Thoroughly updated for the numerous language and class presentation changes that have taken place since the release of the first edition in 1999, this guide introduces the basic elements of the latest release of Python 2.3 and covers new features, such as list comprehensions, nested scopes, and iterators/generators. Beyond language features, this edition of Learning Python also includes new context for less-experienced programmers, including fresh overviews of object-oriented programming and dynamic typing, new discussions of program launch and configuration options, new coverage of documentation sources, and more. There are also new use cases throughout to make the application of language features more concrete. The first part of Learning Python gives programmers all the information they'll need to understand and construct programs in the Python language, including types, operators, statements, classes, functions, modules and exceptions. The authors then present more advanced material, showing how Python performs common tasks by offering real applications and the libraries available for those applications. Each chapter ends with a series of exercises that will test your Python skills and measure your understanding. Learning Python, Second Edition is a self-paced book that allows readers to focus on the core Python language in depth. As you work through the book, you'll gain a deep and complete understanding of the Python language that will help you to understand the larger application-level examples that you'll encounter on your own. If you're interested in learning Python--and want to do so quickly and efficiently--then Learning Python, Second Edition is your best choice.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780596551933"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0596551932"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 624,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 20,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.5.4.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ftA0yk1Z92wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ftA0yk1Z92wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=ftA0yk1Z92wC&printsec=frontcover&dq=Learning+Python+Lutz+%26+Ascher&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=ftA0yk1Z92wC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ftA0yk1Z92wC"
+        }
+    },
+    "easy12.jpg": {
+        "title": "Virtual Environments 2000",
+        "author": "J.D. Mulder, R. van Liere",
+        "description": "This book contains the proceedings of the sixth Eurographics Workshop on Vir tual Environments. The event took place from June 1 to June 2, 2000, in Am sterdam. We hope that readers will find these proceedings to be valuable, not only for virtual environment researchers, but also for practitioners developing or using virtual environment applications. We are glad to report that visibility of the workshop continues to expand and that virtual environment researchers and practitioners from allover the world are submitting papers. This year, 40 papers and case studies were submitted of which 20 were accepted. In addition, we are glad to see that the focus of the workshop is also expanding. We accepted 6 research papers on evaluation of virtual environments and there was a broad sampling of other topics. We would like to thank all those involved in organizing the symposium. In particular, thanks go to Mieke Brune who was in charge of the local organization. In addition, we want to thank the international program committee for their excellent, yet laborious, job in reviewing all submitted papers. The quality of the workshop is a reflection of the quality of the submitted papers and the quality of the reviewing process.",
+        "genre": "Computers",
+        "page_ct": 217,
+        "img": "http://books.google.com/books/content?id=Je2pCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "isbn": "9783709167854",
+        "lang": "en",
+        "pub_date": "2012-12-06",
+        "pub": "Springer Science & Business Media",
+        "link": "http://books.google.ca/books?id=Je2pCAAAQBAJ&pg=PA185&dq=DYBVIG+THE+SCHEME+PROGRAMMING+LANGUAGE+ANSI+SCHEME+SECOND+EDITION+PTR&hl=&cd=1&source=gbs_api",
+        "info_link": "https://play.google.com/store/books/details?id=Je2pCAAAQBAJ&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "Virtual Environments 2000",
+            "subtitle": "Proceedings of the Eurographics Workshop in Amsterdam, The Netherlands, June 1\u20132, 2000",
+            "authors": [
+                "J.D. Mulder",
+                "R. van Liere"
+            ],
+            "publisher": "Springer Science & Business Media",
+            "publishedDate": "2012-12-06",
+            "description": "This book contains the proceedings of the sixth Eurographics Workshop on Vir tual Environments. The event took place from June 1 to June 2, 2000, in Am sterdam. We hope that readers will find these proceedings to be valuable, not only for virtual environment researchers, but also for practitioners developing or using virtual environment applications. We are glad to report that visibility of the workshop continues to expand and that virtual environment researchers and practitioners from allover the world are submitting papers. This year, 40 papers and case studies were submitted of which 20 were accepted. In addition, we are glad to see that the focus of the workshop is also expanding. We accepted 6 research papers on evaluation of virtual environments and there was a broad sampling of other topics. We would like to thank all those involved in organizing the symposium. In particular, thanks go to Mieke Brune who was in charge of the local organization. In addition, we want to thank the international program committee for their excellent, yet laborious, job in reviewing all submitted papers. The quality of the workshop is a reflection of the quality of the submitted papers and the quality of the reviewing process.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9783709167854"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "370916785X"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 217,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Je2pCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Je2pCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=Je2pCAAAQBAJ&pg=PA185&dq=DYBVIG+THE+SCHEME+PROGRAMMING+LANGUAGE+ANSI+SCHEME+SECOND+EDITION+PTR&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=Je2pCAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Je2pCAAAQBAJ"
+        }
+    },
+    "easy13.jpg": {
+        "title": "Gaming and Simulations: Concepts, Methodologies, Tools and Applications",
+        "author": "Management Association, Information Resources",
+        "description": "\"This book set unites fundamental research on the history, current directions, and implications of gaming at individual and organizational levels, exploring all facets of game design and application and describing how this emerging discipline informs and is informed by society and culture\"--Provided by publisher.",
+        "genre": "Games & Activities",
+        "page_ct": 2164,
+        "img": "http://books.google.com/books/content?id=d8kOTKSiCkgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "isbn": "9781609601966",
+        "lang": "en",
+        "pub_date": "2010-11-30",
+        "pub": "IGI Global",
+        "link": "http://books.google.ca/books?id=d8kOTKSiCkgC&pg=PA906&dq=Guzdial+Rose+Squeak+Squeak+Open+Personal+Computing+and+Multimedia+Pratic&hl=&cd=1&source=gbs_api",
+        "info_link": "https://play.google.com/store/books/details?id=d8kOTKSiCkgC&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "Gaming and Simulations: Concepts, Methodologies, Tools and Applications",
+            "subtitle": "Concepts, Methodologies, Tools and Applications",
+            "authors": [
+                "Management Association, Information Resources"
+            ],
+            "publisher": "IGI Global",
+            "publishedDate": "2010-11-30",
+            "description": "\"This book set unites fundamental research on the history, current directions, and implications of gaming at individual and organizational levels, exploring all facets of game design and application and describing how this emerging discipline informs and is informed by society and culture\"--Provided by publisher.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781609601966"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1609601963"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 2164,
+            "printType": "BOOK",
+            "categories": [
+                "Games & Activities"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "3.7.3.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=d8kOTKSiCkgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=d8kOTKSiCkgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=d8kOTKSiCkgC&pg=PA906&dq=Guzdial+Rose+Squeak+Squeak+Open+Personal+Computing+and+Multimedia+Pratic&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=d8kOTKSiCkgC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d8kOTKSiCkgC"
+        }
+    },
+    "easy7.jpg": {
+        "title": "Elements of ML Programming",
+        "author": "Jeffrey D. Ullman",
+        "description": "Hybrid Logic and its Proof-Theory demonstrates that hybrid-logical proof-theory remedies the lack of uniformity in ordinary modal-logical proof systems. Various versions and proof systems for hybrid logic are considered, providing a detailed overview of the topic.",
+        "genre": "Computer programming",
+        "page_ct": 344,
+        "img": "http://books.google.com/books/content?id=XalQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": "UOM:39015032914478",
+        "lang": "en",
+        "pub_date": "1994",
+        "pub": "",
+        "link": "http://books.google.ca/books?id=XalQAAAAMAAJ&q=ULLMAN+ELEMENTS+OF+ML+PROGRAMMING+ML97+EDITION&dq=ULLMAN+ELEMENTS+OF+ML+PROGRAMMING+ML97+EDITION&hl=&cd=1&source=gbs_api",
+        "info_link": "http://books.google.ca/books?id=XalQAAAAMAAJ&dq=ULLMAN+ELEMENTS+OF+ML+PROGRAMMING+ML97+EDITION&hl=&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "Elements of ML Programming",
+            "authors": [
+                "Jeffrey D. Ullman"
+            ],
+            "publishedDate": "1994",
+            "description": "Hybrid Logic and its Proof-Theory demonstrates that hybrid-logical proof-theory remedies the lack of uniformity in ordinary modal-logical proof systems. Various versions and proof systems for hybrid logic are considered, providing a detailed overview of the topic.",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "UOM:39015032914478"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 344,
+            "printType": "BOOK",
+            "categories": [
+                "Computer programming"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.5.2.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=XalQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=XalQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=XalQAAAAMAAJ&q=ULLMAN+ELEMENTS+OF+ML+PROGRAMMING+ML97+EDITION&dq=ULLMAN+ELEMENTS+OF+ML+PROGRAMMING+ML97+EDITION&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=XalQAAAAMAAJ&dq=ULLMAN+ELEMENTS+OF+ML+PROGRAMMING+ML97+EDITION&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Elements_of_ML_Programming.html?hl=&id=XalQAAAAMAAJ"
+        }
+    },
+    "easy6.jpg": {
+        "title": "The Little MLer",
+        "author": "Matthias Felleisen, Daniel P. Friedman",
+        "description": "with a foreword by Robin Milnerand drawings by Duane Bibby Over the past few years, ML has emerged as one of the most important members of the family of programming languages. Many professors in the United States and other countries use ML to teach courses on the principles of programming and on programming languages. In addition, ML has emerged as a natural language for software engineering courses because it provides the most sophisticated and expressive module system currently available.Felleisen and Friedman are well known for gently introducing readers to difficult ideas. The Little MLer is an introduction to thinking about programming and the ML programming language. The authors introduce those new to programming, as well as those experienced in other programming languages, to the principles of types, computation, and program construction. Most important, they help the reader to think recursively with types about programs.",
+        "genre": "ML (Computer program language).",
+        "page_ct": 204,
+        "img": "http://books.google.com/books/content?id=fqHeFu_K_HoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "isbn": "026256114X",
+        "lang": "en",
+        "pub_date": "1998",
+        "pub": "MIT Press",
+        "link": "http://books.google.ca/books?id=fqHeFu_K_HoC&printsec=frontcover&dq=The+Little+MLer+Felleisen+and+Friedman+www&hl=&cd=1&source=gbs_api",
+        "info_link": "http://books.google.ca/books?id=fqHeFu_K_HoC&dq=The+Little+MLer+Felleisen+and+Friedman+www&hl=&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "The Little MLer",
+            "authors": [
+                "Matthias Felleisen",
+                "Daniel P. Friedman"
+            ],
+            "publisher": "MIT Press",
+            "publishedDate": "1998",
+            "description": "with a foreword by Robin Milnerand drawings by Duane Bibby Over the past few years, ML has emerged as one of the most important members of the family of programming languages. Many professors in the United States and other countries use ML to teach courses on the principles of programming and on programming languages. In addition, ML has emerged as a natural language for software engineering courses because it provides the most sophisticated and expressive module system currently available.Felleisen and Friedman are well known for gently introducing readers to difficult ideas. The Little MLer is an introduction to thinking about programming and the ML programming language. The authors introduce those new to programming, as well as those experienced in other programming languages, to the principles of types, computation, and program construction. Most important, they help the reader to think recursively with types about programs.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "026256114X"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780262561143"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 204,
+            "printType": "BOOK",
+            "categories": [
+                "ML (Computer program language)."
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.6.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=fqHeFu_K_HoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=fqHeFu_K_HoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=fqHeFu_K_HoC&printsec=frontcover&dq=The+Little+MLer+Felleisen+and+Friedman+www&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=fqHeFu_K_HoC&dq=The+Little+MLer+Felleisen+and+Friedman+www&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Little_MLer.html?hl=&id=fqHeFu_K_HoC"
+        }
+    },
+    "easy4.jpg": {
+        "title": "R Programming for Bioinformatics",
+        "author": "Robert Gentleman",
+        "description": "Due to its data handling and modeling capabilities as well as its flexibility, R is becoming the most widely used software in bioinformatics. R Programming for Bioinformatics explores the programming skills needed to use this software tool for the solution of bioinformatics and computational biology problems. Drawing on the author\u2019s first-hand experiences as an expert in R, the book begins with coverage on the general properties of the R language, several unique programming aspects of R, and object-oriented programming in R. It presents methods for data input and output as well as database interactions. The author also examines different facets of string handling and manipulations, discusses the interfacing of R with other languages, and describes how to write software packages. He concludes with a discussion on the debugging and profiling of R code. With numerous examples and exercises, this practical guide focuses on developing R programming skills in order to tackle problems encountered in bioinformatics and computational biology.",
+        "genre": "Mathematics",
+        "page_ct": 328,
+        "img": "http://books.google.com/books/content?id=34Y6WjJy8zEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "isbn": "1420063685",
+        "lang": "en",
+        "pub_date": "2008-07-14",
+        "pub": "CRC Press",
+        "link": "http://books.google.ca/books?id=34Y6WjJy8zEC&pg=PA303&dq=13+Apple+PRESS+Reference+Manual+The+Dylan+Shalit+Addison+Wesley&hl=&cd=1&source=gbs_api",
+        "info_link": "https://play.google.com/store/books/details?id=34Y6WjJy8zEC&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "R Programming for Bioinformatics",
+            "authors": [
+                "Robert Gentleman"
+            ],
+            "publisher": "CRC Press",
+            "publishedDate": "2008-07-14",
+            "description": "Due to its data handling and modeling capabilities as well as its flexibility, R is becoming the most widely used software in bioinformatics. R Programming for Bioinformatics explores the programming skills needed to use this software tool for the solution of bioinformatics and computational biology problems. Drawing on the author\u2019s first-hand experiences as an expert in R, the book begins with coverage on the general properties of the R language, several unique programming aspects of R, and object-oriented programming in R. It presents methods for data input and output as well as database interactions. The author also examines different facets of string handling and manipulations, discusses the interfacing of R with other languages, and describes how to write software packages. He concludes with a discussion on the debugging and profiling of R code. With numerous examples and exercises, this practical guide focuses on developing R programming skills in order to tackle problems encountered in bioinformatics and computational biology.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1420063685"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781420063684"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 328,
+            "printType": "BOOK",
+            "categories": [
+                "Mathematics"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.0.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=34Y6WjJy8zEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=34Y6WjJy8zEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=34Y6WjJy8zEC&pg=PA303&dq=13+Apple+PRESS+Reference+Manual+The+Dylan+Shalit+Addison+Wesley&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=34Y6WjJy8zEC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=34Y6WjJy8zEC"
+        }
+    },
+    "easy5.jpg": {
+        "title": "The Java Programming Language",
+        "author": "Ken Arnold, James Gosling, David Holmes",
+        "description": "Restructured to deliver in-depth coverage of Java's critical new features, this guide contains code examples to help developers make the most of new Java features. It offers a creator's eye view of the rationale behind Java's design, and its latest enhancements, all designed to help developers make the most of Java's power, portability, and flexibility.",
+        "genre": "Java (Computer program language).",
+        "page_ct": 636,
+        "img": "http://books.google.com/books/content?id=m61QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": "UOM:39015050138109",
+        "lang": "en",
+        "pub_date": "2000",
+        "pub": "Addison-Wesley Professional",
+        "link": "http://books.google.ca/books?id=m61QAAAAMAAJ&q=The+Java%E2%84%A2+Programming+Language+Second+Edition+Arnold+Gosling+JAVA&dq=The+Java%E2%84%A2+Programming+Language+Second+Edition+Arnold+Gosling+JAVA&hl=&cd=1&source=gbs_api",
+        "info_link": "http://books.google.ca/books?id=m61QAAAAMAAJ&dq=The+Java%E2%84%A2+Programming+Language+Second+Edition+Arnold+Gosling+JAVA&hl=&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "The Java Programming Language",
+            "authors": [
+                "Ken Arnold",
+                "James Gosling",
+                "David Holmes"
+            ],
+            "publisher": "Addison-Wesley Professional",
+            "publishedDate": "2000",
+            "description": "Restructured to deliver in-depth coverage of Java's critical new features, this guide contains code examples to help developers make the most of new Java features. It offers a creator's eye view of the rationale behind Java's design, and its latest enhancements, all designed to help developers make the most of Java's power, portability, and flexibility.",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "UOM:39015050138109"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 636,
+            "printType": "BOOK",
+            "categories": [
+                "Java (Computer program language)."
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.7.3.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=m61QAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=m61QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=m61QAAAAMAAJ&q=The+Java%E2%84%A2+Programming+Language+Second+Edition+Arnold+Gosling+JAVA&dq=The+Java%E2%84%A2+Programming+Language+Second+Edition+Arnold+Gosling+JAVA&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=m61QAAAAMAAJ&dq=The+Java%E2%84%A2+Programming+Language+Second+Edition+Arnold+Gosling+JAVA&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Java_Programming_Language.html?hl=&id=m61QAAAAMAAJ"
+        }
+    },
+    "easy1.jpg": {
+        "title": "Reliable Software Technologies -- Ada-Europe 2006",
+        "author": "Lu\u00eds Miguel Pinho, Michael Gonz\u00e1lez Harbour",
+        "description": "This book constitutes the refereed proceedings of the 11th International Conference on Reliable Software Technologies, Ada-Europe 2006, held in Porto, Portugal, in June 2006. The 19 revised full papers presented were carefully reviewed and selected from numerous submissions. The papers are organized in topical sections on real-time systems, static analysis, verification, applications, reliability, compilers, and distributed systems.",
+        "genre": "Computers",
+        "page_ct": 244,
+        "img": "http://books.google.com/books/content?id=ci0GCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "isbn": "9783540346647",
+        "lang": "en",
+        "pub_date": "2006-05-30",
+        "pub": "Springer",
+        "link": "http://books.google.ca/books?id=ci0GCAAAQBAJ&pg=PA177&dq=dman+www+Software+Construction+Ada+95+ADDISON+WESLEY&hl=&cd=1&source=gbs_api",
+        "info_link": "https://play.google.com/store/books/details?id=ci0GCAAAQBAJ&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "Reliable Software Technologies -- Ada-Europe 2006",
+            "subtitle": "11th Ada-Europe International Conference on Reliable Software Technologies, Porto, Portugal, June 5-9, 2006, Proceedings",
+            "authors": [
+                "Lu\u00eds Miguel Pinho",
+                "Michael Gonz\u00e1lez Harbour"
+            ],
+            "publisher": "Springer",
+            "publishedDate": "2006-05-30",
+            "description": "This book constitutes the refereed proceedings of the 11th International Conference on Reliable Software Technologies, Ada-Europe 2006, held in Porto, Portugal, in June 2006. The 19 revised full papers presented were carefully reviewed and selected from numerous submissions. The papers are organized in topical sections on real-time systems, static analysis, verification, applications, reliability, compilers, and distributed systems.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9783540346647"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "3540346643"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 244,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ci0GCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ci0GCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=ci0GCAAAQBAJ&pg=PA177&dq=dman+www+Software+Construction+Ada+95+ADDISON+WESLEY&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=ci0GCAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ci0GCAAAQBAJ"
+        }
+    },
+    "easy2.jpg": {
+        "title": "C Programming Language",
+        "author": "Brian W. Kernighan, Dennis M. Ritchie",
+        "description": "C++ was written to help professional C# developers learn modern C++ programming. The aim of this book is to leverage your existing C# knowledge in order to expand your skills. Whether you need to use C++ in an upcoming project, or simply want to learn a new language (or reacquaint yourself with it), this book will help you learn all of the fundamental pieces of C++ so you can begin writing your own C++ programs.This updated and expanded second edition of Book provides a user-friendly introduction to the subject, Taking a clear structural framework, it guides the reader through the subject's core elements. A flowing writing style combines with the use of illustrations and diagrams throughout the text to ensure the reader understands even the most complex of concepts. This succinct and enlightening overview is a required reading for all those interested in the subject .We hope you find this book useful in shaping your future career & Business.",
+        "genre": "",
+        "page_ct": 216,
+        "img": "http://books.google.com/books/content?id=OdetswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": "1548817708",
+        "lang": "en",
+        "pub_date": "2017-07-13",
+        "pub": "",
+        "link": "http://books.google.ca/books?id=OdetswEACAAJ&dq=KERNIGHAN+RITCHIE+.+THE+C+PROGRAMMING+LANGUAGE+SECOND+EDITION+PTR&hl=&cd=1&source=gbs_api",
+        "info_link": "http://books.google.ca/books?id=OdetswEACAAJ&dq=KERNIGHAN+RITCHIE+.+THE+C+PROGRAMMING+LANGUAGE+SECOND+EDITION+PTR&hl=&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "C Programming Language",
+            "authors": [
+                "Brian W. Kernighan",
+                "Dennis M. Ritchie"
+            ],
+            "publishedDate": "2017-07-13",
+            "description": "C++ was written to help professional C# developers learn modern C++ programming. The aim of this book is to leverage your existing C# knowledge in order to expand your skills. Whether you need to use C++ in an upcoming project, or simply want to learn a new language (or reacquaint yourself with it), this book will help you learn all of the fundamental pieces of C++ so you can begin writing your own C++ programs.This updated and expanded second edition of Book provides a user-friendly introduction to the subject, Taking a clear structural framework, it guides the reader through the subject's core elements. A flowing writing style combines with the use of illustrations and diagrams throughout the text to ensure the reader understands even the most complex of concepts. This succinct and enlightening overview is a required reading for all those interested in the subject .We hope you find this book useful in shaping your future career & Business.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1548817708"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781548817701"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 216,
+            "printType": "BOOK",
+            "averageRating": 5,
+            "ratingsCount": 4,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=OdetswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=OdetswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=OdetswEACAAJ&dq=KERNIGHAN+RITCHIE+.+THE+C+PROGRAMMING+LANGUAGE+SECOND+EDITION+PTR&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=OdetswEACAAJ&dq=KERNIGHAN+RITCHIE+.+THE+C+PROGRAMMING+LANGUAGE+SECOND+EDITION+PTR&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/C_Programming_Language.html?hl=&id=OdetswEACAAJ"
+        }
+    },
+    "easy3.jpg": {
+        "title": "The C++ Programming Language",
+        "author": "Bjarne Stroustrup",
+        "description": "Offers information on using the C++ programming languge using the new C++11 standard, covering such topics as concurrency, facilities, standard libraries, and design techniques.",
+        "genre": "Computers",
+        "page_ct": 1366,
+        "img": "http://books.google.com/books/content?id=0klsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": "9780321563842",
+        "lang": "en",
+        "pub_date": "2013",
+        "pub": "Pearson Education",
+        "link": "http://books.google.ca/books?id=0klsAQAAQBAJ&dq=STROUSERS+THE+C%2B%2B+PROGRAMMING+LANGUAGE+THIRD+EDITION&hl=&cd=1&source=gbs_api",
+        "info_link": "http://books.google.ca/books?id=0klsAQAAQBAJ&dq=STROUSERS+THE+C%2B%2B+PROGRAMMING+LANGUAGE+THIRD+EDITION&hl=&source=gbs_api",
+        "sale_info": "",
+        "extra_info": {
+            "title": "The C++ Programming Language",
+            "authors": [
+                "Bjarne Stroustrup"
+            ],
+            "publisher": "Pearson Education",
+            "publishedDate": "2013",
+            "description": "Offers information on using the C++ programming languge using the new C++11 standard, covering such topics as concurrency, facilities, standard libraries, and design techniques.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780321563842"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0321563840"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 1366,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.0.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=0klsAQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0klsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ca/books?id=0klsAQAAQBAJ&dq=STROUSERS+THE+C%2B%2B+PROGRAMMING+LANGUAGE+THIRD+EDITION&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.ca/books?id=0klsAQAAQBAJ&dq=STROUSERS+THE+C%2B%2B+PROGRAMMING+LANGUAGE+THIRD+EDITION&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_C++_Programming_Language.html?hl=&id=0klsAQAAQBAJ"
+        }
+    }
+}
